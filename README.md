@@ -1,17 +1,22 @@
-# OOP Bank Account System (Python)
+# Python OOP Bank Account System
+A simple Python Object-Oriented Programming (OOP) project that simulates basic bank account operations such as deposit, withdrawal, balance checking, and money transfer between accounts.
 
-This project demonstrates basic Object-Oriented Programming concepts in Python.
+# Features
+Uses Python Classes and Objects (OOP)
+Deposit money into an account
+Withdraw money from an account
+Transfer money between accounts
+Check account balance
+Tracks total number of accounts created
 
-Concepts used:
-- Classes and Objects
-- Instance Variables
-- Class Variables
-- Methods
-- Object Interaction
-- __str__ method
+# Tech Stack
+Python 3
 
-Features:
-- Deposit money
-- Withdraw money
-- Transfer money between accounts
-- Check balance
+# Run the Project
+git clone https://github.com/developerhinakhan/oop-bank-account-system.git
+cd oop-bank-account-system
+python bank_account.py
+
+# Author
+Hina Developer
+GitHub: https://github.com/developerhinakhan
